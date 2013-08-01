@@ -1,0 +1,8 @@
+{
+  "name"        : "CSV::Query",
+  "version"     : "0.1.0",
+  "description" : "Query CSV files like SQL, duh",
+  "author"      : "Tony ODell",
+  "depends"     : [ ],
+  "source-url"  : "git@bitbucket.org:segomos/csv-query.git"
+} 
