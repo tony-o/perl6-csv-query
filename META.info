@@ -4,5 +4,5 @@
   "description" : "Query CSV files like SQL, duh",
   "author"      : "Tony ODell",
   "depends"     : [ ],
-  "source-url"  : "git@bitbucket.org:segomos/csv-query.git"
+  "source-url"  : "git@github.com:tony-o/perl6-csv-query.git"
 } 
