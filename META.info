@@ -1,8 +1,10 @@
 {
-  "name"        : "CSV::Query",
-  "version"     : "0.1.0",
-  "description" : "Query CSV files like SQL, duh",
-  "author"      : "Tony ODell",
-  "depends"     : [ ],
-  "source-url"  : "git@github.com:tony-o/perl6-csv-query.git"
+  "name"         : "CSV::Query",
+  "version"      : "0.1.0",
+  "description"  : "Query CSV files like SQL, duh",
+  "author"       : "Tony ODell",
+  "dependencies" : {
+    "CSV::Parser": "*"
+  },
+  "source-url"   : "git@github.com:tony-o/perl6-csv-query.git"
 } 
