@@ -3,6 +3,7 @@
   "version"      : "0.1.0",
   "description"  : "Query CSV files like SQL, duh",
   "author"       : "Tony ODell",
+  "auth": "github:tony-o",
   "dependencies" : {
     "CSV::Parser": "*"
   },
